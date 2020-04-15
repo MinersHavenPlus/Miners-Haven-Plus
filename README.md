@@ -20,4 +20,4 @@ Learning to develop on Roblox? The game file for Miner's Haven is available for 
 
 *WE DO NOT RECOMMEND USING THIS GAME AS A LEARNING TOOL*
 -
-This game incorporates many poor practices, and is very messy.
+This game incorporates many poor practices, and is generally awful to work with.
